@@ -1,7 +1,5 @@
-class ThisKeyword{
+class StaticBlock{
 	public static void main(String arg[]){
-		System.out.println("This is temp branch");
-		System.out.println("This is pull method");
-//comment
+	
 	}
 }
